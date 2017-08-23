@@ -1,0 +1,29 @@
+Write each problem in a file with java extension. 
+Submit the github repository: https://github.com/waveside/java-1z0-808-basics-kevin-kevinmeng1022
+
+
+2. Write a Java program to print the sum of two numbers.
+Test Data: 
+74 + 36 
+Expected Output :
+110
+
+
+
+11. Write a Java program to print the area and perimeter of a circle. 
+Test Data:
+Radius = 7.5 
+Expected Output
+Perimeter is = 47.12388980384689 
+Area is = 176.71458676442586
+
+
+
+77. Write a Java program to create a new array of length 2 from two arrays of integers with three elements and the new array will contain the first and last elements from the two arrays. 
+Test Data: array1 = 50, -20, 0
+array2 = 5, -50, 10
+Sample Output:
+
+Array1: [50, -20, 0]                                                   
+Array2: [5, -50, 10]                                                   
+New Array: [50, 10]
